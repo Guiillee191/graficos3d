@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\guill\Documents\server\uni\2\graf3D\entrega3\Graphics_1\src\main.cpp(20,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\guill\Documents\server\uni\2\graf3D\entrega3\Graphics_1\src\main.cpp(138,150): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\guill\Documents\server\uni\2\graf3D\entrega3\Graphics_1\src\main.cpp(139,117): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\guill\Documents\server\uni\2\graf3D\entrega3\Graphics_1\src\main.cpp(143,58): warning C4267: '=': conversión de 'size_t' a 'GLuint'; posible pérdida de datos
+C:\Users\guill\Documents\server\uni\2\graf3D\entrega3\Graphics_1\src\main.cpp(151,150): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\guill\Documents\server\uni\2\graf3D\entrega3\Graphics_1\src\main.cpp(152,117): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\guill\Documents\server\uni\2\graf3D\entrega3\Graphics_1\src\main.cpp(156,64): warning C4267: '=': conversión de 'size_t' a 'GLuint'; posible pérdida de datos
+C:\Users\guill\Documents\server\uni\2\graf3D\entrega3\Graphics_1\src\main.cpp(284,12): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\guill\Documents\server\uni\2\graf3D\entrega3\Graphics_1\src\main.cpp(285,12): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\guill\Documents\server\uni\2\graf3D\entrega3\Graphics_1\src\main.cpp(289,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\guill\Documents\server\uni\2\graf3D\entrega3\Graphics_1\src\main.cpp(290,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\guill\Documents\server\uni\2\graf3D\entrega3\Graphics_1\src\main.cpp(291,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\guill\Documents\server\uni\2\graf3D\entrega3\Graphics_1\src\main.cpp(292,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Shader.cpp
+C:\Users\guill\Documents\server\uni\2\graf3D\entrega3\Graphics_1\src\Shader.cpp(30,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generando código...
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Graphics_1.vcxproj -> C:\Users\guill\Documents\server\uni\2\graf3D\entrega3\Graphics_1\visual_studio\..\Graphics_1.exe
